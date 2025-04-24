@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""A function to add two numbers"""
+
+"""
+A function to add two numbers
+"""
+
 
 a: int = 1
 pi: float = 3.14

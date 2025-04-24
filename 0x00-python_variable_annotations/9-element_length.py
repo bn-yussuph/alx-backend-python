@@ -6,6 +6,7 @@ Function that takes a list of strings and returns a list of tuples
 
 from typing import List, Iterable, Tuple, Sequence
 
+
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
     """
     Parameters
