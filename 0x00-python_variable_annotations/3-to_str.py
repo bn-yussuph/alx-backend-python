@@ -11,7 +11,7 @@ def to_str(n: float) -> str:
         n : a float
 
     Return
-        their sum as a string
+        its string representation.
     """
 
-	return str(n):
+	return str(n)
