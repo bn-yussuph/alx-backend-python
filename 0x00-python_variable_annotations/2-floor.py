@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+"""A function to concatanate two strings"""
+
+def floor(n: floor) -> int:
+	return math.floor(n)
