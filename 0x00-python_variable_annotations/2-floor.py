@@ -4,6 +4,9 @@
 A function to concatanate two strings
 """
 
+import math
+
+
 
 def floor(n: float) -> int:
 	"""

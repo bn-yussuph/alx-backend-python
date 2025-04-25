@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-A function to add two numbers
+A module to define annotated variables.
 """
 
 
